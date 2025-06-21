@@ -5,3 +5,5 @@ for _ in range(10):
         counter = counter + 1  #прибавка +n к стартовому значению
 
 print('Было введено', counter, 'чисел, больших 10.')
+
+#counter = cnt
